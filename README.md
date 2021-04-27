@@ -3,7 +3,7 @@
 ------
 
 - 👋 Oi! Meu nome é Lisandra Flach.
-- 📚 Estudante do Tecnólogo em ✒️Design na FADERGS.
+- 📚 Estudante do Tecnólogo em ✒️Design na FADERGS e 💻 Sist. Internet!
 - 👀 Tenho me interessado por Front End, UX/UI Design.
 - 🏠 Sou de Porto Alegre 🇧🇷
 
