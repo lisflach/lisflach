@@ -1,7 +1,7 @@
 # 💻 Welcome!!! 👩🏽‍💻
 
 ------
-<div>
+
 - 👋 Olá! Meu nome é Lisandra Flach.
 - 📚 Estudante do curso de Full Stack Designer do EBAC, Cursando Tecnólogo Design da FADERGS e Tecnólogo em Sistemas para Internet na Estácio
 - 👀 Tenho me interessado  por Front End, UX/UI Design.
@@ -13,7 +13,7 @@
 
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/lisflach](https://codepen.io/lisflach))](https://codepen.io/lisflach)
   ##
-  </div>
+ 
   
  <div style="display: inline_block">
   <img align="center" alt="Lis-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
