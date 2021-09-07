@@ -2,10 +2,10 @@
 
 ------
 
-- 👋 Oi! Meu nome é Lisandra Flach.
-- 📚 Estudante
-- 👀 Tenho me interessado por Front End, UX/UI Design.
-- 🏠 Sou de Porto Alegre 🇧🇷
+- 👋 Olá! Meu nome é Lisandra Flach.
+- 📚 Estudante do curso de Full Stack Designer do EBAC, Cursando Tecnólogo Design da FADERGS e Tecnólogo em Sistemas para Internet na Estácio
+- 👀 Tenho me interessado  por Front End, UX/UI Design.
+- 🏠 Sou de Porto Alegre/RS 🇧🇷
 
 > *“Se foi um erro, amanhã vira aprendizado.”*
 
@@ -17,6 +17,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisflach&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/lisflach/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lisflach)](https://github.com/lisflach/github-readme-stats)
 
 
