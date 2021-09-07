@@ -39,7 +39,8 @@
   <a href="https://www.linkedin.com/in/lisandra-flach-rosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
     <div>
-     ![Snake animation](https://github.com/lisflach/lisflach/blob/output/github-contribution-grid-snake.svg)
+     
+      <img src="https://github.com/lisflach/lisflach/blob/output/github-contribution-grid-snake.svg"></a>
     </div>
 
   
