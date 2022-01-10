@@ -4,7 +4,7 @@
 
 - 👋 Olá! Meu nome é Lisandra Flach.
 - 📚 Estudante do curso de Full Stack Designer do EBAC, Cursando 5º semestre do Tecnólogo Design da FADERGS e 2º semestre do Tecnólogo em Sistemas para Internet na Estácio
-- 👀 Tenho me interessado  por Front End, UX/UI Design.
+- 👀 Interesse em Front End, UX/UI Design.
 - 🏠 Sou de Porto Alegre/RS 🇧🇷
 
 > *“Se foi um erro, amanhã vira aprendizado.”*
