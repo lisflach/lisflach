@@ -3,9 +3,9 @@
 ------
 
 - 👋 Olá! Meu nome é Lisandra Flach.
-- 📚 Cursando 4º semestre do Tecnólogo Design da FADERGS, e 1º semestre do Tecnólogo em Gestão da Marketing pela FASUL.
+- 📚 Graduada no Tecnólogo Design da FADERGS, e cursando 4º semestre de Pedagogia na Unifatecie.
 - 👀 Interesse em Front End, UI Design, Design para redes sociais.
-- 🏠 Sou de Porto Alegre/RS 🇧🇷
+- 🏠 Sou de Alvorada/RS 🇧🇷
 
 > *“Se foi um erro, amanhã vira aprendizado.”*
 
