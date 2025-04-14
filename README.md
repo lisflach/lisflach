@@ -4,7 +4,7 @@
 
 - 👋 Olá! Meu nome é Lisandra Flach.
 - 📚 Graduada no Tecnólogo Design da FADERGS, e cursando 4º semestre de Pedagogia na Unifatecie.
-- 👀 Interesse em Front End, UI Design, Design para redes sociais.
+- 👀 Interesse em Front End, UI Design, Design para redes sociais, Design Intrucional e Informatica na educação.
 - 🏠 Sou de Alvorada/RS 🇧🇷
 
 > *“Se foi um erro, amanhã vira aprendizado.”*
